@@ -1,0 +1,113 @@
+
+body {
+  background-color: #000000;
+  background-image: url('http://summitfree.com/su/images/bg.jpg');
+}
+.game {
+  width: 350px;
+  color: #808080;
+}
+.time-playing {
+  font-weight: bold;
+  float: right
+}
+
+.game-top {
+  text-align: center;
+  height:30px;
+  background-color:#181818;
+  border-left:solid 1px #303030;
+  border-top:solid 1px #303030;
+  border-right:solid 1px #303030;
+  border-radius: 30px 30px 0 0;
+  padding: 5px;
+  font-weight: bold;
+}
+.game-bottom {
+  text-align: center;
+  /* border: 1px solid yellow; */
+  height:30px;
+  background-color:#181818;
+  border-left:solid 1px #303030;
+  border-bottom:solid 1px #303030;
+  border-right:solid 1px #303030;
+  border-radius: 0 0 30px 30px;
+  padding: 5px;
+  font-weight: bold;
+}
+.game-middle {
+    height:30px;
+  padding: 5px 10px;
+  background-color:#181818;
+  border:solid 1px  #303030;
+  text-align: center;
+  position: relative;
+}
+.icons {
+  position: absolute;
+  left: 0;
+}
+.time-done {
+  color: gray;
+  font-weight: bold;
+  position: absolute;
+  right: 0;
+}
+
+
+.notification {
+    margin:0 auto;
+}
+.team-won {
+  color:#A2D60F;
+}
+.team-lost {
+  color:#DE0303;
+}
+/* .game-waiting {
+  border-color: blue;
+}
+.game-next {
+  border-color: yellow;
+}
+.game-playing {
+  border-color: green;
+} */
+
+
+.game-test {
+  width: 350px;
+  border-radius: 30px;
+  color:yellow;
+  border-color: yellow;
+  -moz-box-shadow: 0 0 10px yellow;
+  -webkit-box-shadow: 0 0 10px yellow;
+  box-shadow: 0 0 10px yellow;
+}
+
+
+.game-test2 {
+  width: 350px;
+  border-radius: 30px;
+  color:#65B2FF;
+  border-color: #65B2FF;
+  -moz-box-shadow: 0 0 10px #65B2FF;
+  -webkit-box-shadow: 0 0 10px #65B2FF;
+  box-shadow: 0 0 10px #65B2FF;
+}
+
+.game-test3 {
+  width: 350px;
+  border-radius: 30px;
+  color:#A2D60F;
+  border-color: #A2D60F;
+  -moz-box-shadow: 0 0 10px #A2D60F;
+  -webkit-box-shadow: 0 0 10px #A2D60F;
+  box-shadow: 0 0 10px #A2D60F;
+}
+
+
+
+
+
+
